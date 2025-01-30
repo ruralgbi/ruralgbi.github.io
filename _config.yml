@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Guaranteed Basic Income in South Carolina"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "John E Walker Dept. of Economics"
 description              : &description "personal description"
 url                      : https://ruralgbi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,12 +21,12 @@ repository               : "ruralgbi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images.png"
+  name             : "John E Walker Dept. of Economics"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Studying GBI in Rural SC"
   location         : "Clemson, SC"
-  employer         : "John E Walker Dept. of Economics at Clemson University"
+  employer         : "Clemson University"
   uri              : # URL
   email            : "none@example.org" 
 
